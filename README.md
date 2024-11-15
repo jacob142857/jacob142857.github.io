@@ -1,4 +1,4 @@
-Final Art Project: How AI Understands Art and Images  
+# Final Art Project: How AI Understands Art and Images  
 Jacob Davis
 
 Before I show you any images in this project, I would like to give you some context on what I did before you see it. I started off by choosing four images that resonate with me: Starry Night by Vincent Vangoh, Relativity by M.C. Escher, Revolver (one of The Beatles album covers) by Klaus Voormann, and Abraham Linclon's face (i'll explain later.)
