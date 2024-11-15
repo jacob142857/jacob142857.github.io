@@ -1,8 +1,7 @@
 Final Art Project: How AI Understands Art and Images  
 Jacob Davis
 
-	Before I show you any images in this project, I would like to give you some context on what I did before you see it. I started off by choosing four images that resonate
-with me: Starry Night by Vincent Vangoh, Relativity by M.C. Escher, Revolver (one of The Beatles album covers) by Klaus Voormann, and Abraham Linclon's face (i'll explain later.)
+Before I show you any images in this project, I would like to give you some context on what I did before you see it. I started off by choosing four images that resonate with me: Starry Night by Vincent Vangoh, Relativity by M.C. Escher, Revolver (one of The Beatles album covers) by Klaus Voormann, and Abraham Linclon's face (i'll explain later.)
 For the first three pieces of art, I did the following: (note: I will only show two images that both of the AI’s generated for each piece of art that I chose, even though I did
 generate more, I just want to show you the best and most relevant images.) I went to ChatGPT and first asked it to recreate the piece of art  point blank, and if that did not work
 because of copyright reasons, I would ask it to recreate the art as best as it could without infringing on some copyright or another. Images that follow this criteria are the
@@ -110,8 +109,8 @@ Me!:
  has become abundantly clear to me in doing this project that, whereas AI seems human at times, at the end of the day it is still just computer software that has a lot of room for
  improvement. 
 
-	Below are the two chunks of code that will show the two Abraham Lincoln images that I created. Feel free to copy and paste them and run them yourself. I know it probably
- doesn’t look pretty below, but I'm pretty sure it will format correctly when you paste it. Also feel free to be creative and change it up any way you like!
+Below are the two chunks of code that will show the two Abraham Lincoln images that I created. Feel free to copy and paste them and run them yourself. I know it probably
+doesn’t look pretty below, but I'm pretty sure it will format correctly when you paste it. Also feel free to be creative and change it up any way you like!
 
 **Abraham Lincoln #1**
 ```python
